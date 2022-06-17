@@ -1,7 +1,7 @@
 # MAIN base
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Apsho | App landing template"
+title = "Apsho | App landing template   sss"
 theme = "apsho-hugo-theme"
 
 # Navigation Bar
